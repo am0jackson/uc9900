@@ -99,7 +99,7 @@
         scroll_layer {
             bindings = <
             &trans                       &trans            &trans         &trans    &trans
-&trans   &trans   &trans                 &trans                          &trans        &trans
+&msc SCRL_UP   &msc SCRL_DOWN   &trans                 &trans                          &trans        &trans
 &trans     &trans        &trans     &trans        &trans     &trans     &trans     &trans     &trans     &trans
 &trans     &trans        &trans     &trans   &trans     &trans     &trans     &trans     &trans    &trans  &trans &trans
 &trans     &trans        &trans     &trans   &trans     &trans     &trans     &trans     &trans    &trans  &trans
